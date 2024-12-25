@@ -1,5 +1,28 @@
 Common:
-  Gui: Premi ESC per tornare indietro
+  Gui:
+    Abort_lore: §7Clicca per annullare
+    Abort: Annulla
+    Confirm_lore: §7Clicca per confermare
+    Confirm: Conferma
+    Search_lore: §7Clicca per cercare.
+    Search: Cerca
+    Next_lore: Vai alla pagina successiva.
+    Next: Successivo
+    Previous_lore: Vai alla pagina precedente.
+    Previous: Precedente
+    Choose_lore: §7Clicca per scegliere
+    Choose: Scegli
+    Back: §7Indietro
+    Remove: Rimuovi
+    PressQ: §ePremi Q §7per §crimuovere
+    Click_to_manage: §7Clicca per gestire.
+    Click_to_change: §7Clicca per modificare.
+    Add: Aggiungi
+    Create: Crea
+    InvalidName: §cNome non valido! Non puoi usare caratteri speciali nel nome della quest!
+    Disable: §7Clicca per §cdisabilitare
+    Enable: §7Clicca per §aabilitare
+    Esc: Premi ESC per tornare indietro
   Chat:
     Help: §7Scrivi in chat §e/questmania §7help per vedere tutti i comandi.
     NotFound: §cComando non trovato!

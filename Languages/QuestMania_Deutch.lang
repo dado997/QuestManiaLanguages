@@ -1,11 +1,34 @@
 Common:
-  Gui: Drücke ESC, um zurückzugehen
+  Gui:
+    Abort_lore: §7Klicken, um abzubrechen
+    Abort: Abbrechen
+    Confirm_lore: §7Klicken, um zu bestätigen
+    Confirm: Bestätigen
+    Search_lore: §7Klicken, um zu suchen.
+    Search: Suchen
+    Next_lore: Zur nächsten Seite gehen.
+    Next: Weiter
+    Previous_lore: Zur vorherigen Seite gehen.
+    Previous: Zurück
+    Choose_lore: §7Klicken, um auszuwählen
+    Choose: Auswählen
+    Back: §7Zurück
+    Remove: Entfernen
+    PressQ: §eDrücken Sie Q §7zum §cEntfernen
+    Click_to_manage: §7Klicken, um zu verwalten.
+    Click_to_change: §7Klicken, um zu ändern.
+    Add: Hinzufügen
+    Create: Erstellen
+    InvalidName: §cUngültiger Name! Sie können keine Sonderzeichen im Namen der quest verwenden!
+    Disable: §7Klicken, um §czu deaktivieren
+    Enable: §7Klicken, um §azu aktivieren
+    Esc: Drücken Sie ESC, um zurückzukehren
   Chat:
-    Help: §7Gib im Chat §e/questmania §7help ein, um alle Befehle zu sehen.
+    Help: §7Geben Sie im Chat §e/questmania §7help ein, um alle Befehle zu sehen.
     NotFound: §cBefehl nicht gefunden!
     InvalidArgs: §cUngültige Argumente!
-    NoPermission: §cDu hast keine Berechtigung, diese Aktion auszuführen!
-    InvalidNumber: §cUngültige Zahl!
+    NoPermission: §cSie haben keine Berechtigung, diese Aktion auszuführen!
+    InvalidNumber: §cUngültige Nummer!
 Chat:
   Gui:
     DoesntExist: §cEine GUI mit diesem Namen existiert nicht!

@@ -22,6 +22,7 @@ Common:
     InvalidName: §cNom invalide ! Vous ne pouvez pas utiliser de caractères spéciaux dans le nom de la quest !
     Disable: §7Cliquez pour §cdésactiver
     Enable: §7Cliquez pour §aactiver
+    Esc: Appuyez sur ESC pour revenir en arrière
   Chat:
     Help: §7Tapez dans le chat §e/questmania §7help pour voir toutes les commandes.
     NotFound: §cCommande introuvable !
