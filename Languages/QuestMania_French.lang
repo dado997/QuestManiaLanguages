@@ -1,0 +1,68 @@
+Common:
+  Gui:
+    Abort_lore: §7Cliquez pour annuler
+    Abort: Annuler
+    Confirm_lore: §7Cliquez pour confirmer
+    Confirm: Confirmer
+    Search_lore: §7Cliquez pour rechercher.
+    Search: Rechercher
+    Next_lore: Aller à la page suivante.
+    Next: Suivant
+    Previous_lore: Aller à la page précédente.
+    Previous: Précédent
+    Choose_lore: §7Cliquez pour choisir
+    Choose: Choisir
+    Back: §7Retour
+    Remove: Supprimer
+    PressQ: §eAppuyez sur Q §7pour §csupprimer
+    Click_to_manage: §7Cliquez pour gérer.
+    Click_to_change: §7Cliquez pour modifier.
+    Add: Ajouter
+    Create: Créer
+    InvalidName: §cNom invalide ! Vous ne pouvez pas utiliser de caractères spéciaux dans le nom de la quest !
+    Disable: §7Cliquez pour §cdésactiver
+    Enable: §7Cliquez pour §aactiver
+  Chat:
+    Help: §7Tapez dans le chat §e/questmania §7help pour voir toutes les commandes.
+    NotFound: §cCommande introuvable !
+    InvalidArgs: §cArguments invalides !
+    NoPermission: §cVous n'avez pas la permission d'effectuer cette action !
+    InvalidNumber: §cNombre invalide !
+Chat:
+  Gui_AlreadyExists: §cUne interface avec ce nom existe déjà !
+  Gui_DoesntExist: §cUne interface avec ce nom n'existe pas !
+  Quest_AlreadyExists: §cUne quest avec ce nom existe déjà !
+  Quest_DoesntExist: §cUne quest avec ce nom n'existe pas !
+  Quest_Removed: §aQuest supprimée avec succès §e%quest%
+  Quest_alreadyStarted: §cVous avez déjà commencé la quest §e%quest%
+  Quest_created: §aQuest créée avec succès §e%quest%
+  Quest_started: §aVous avez commencé la quest §e%quest%
+Gui:
+  ActionBarDisplay: Afficher la progression dans la barre d'action
+  ActionBarDisplay_lore: §7La progression sera envoyée comme message dans la barre d'action
+  Add_line: §7Ajoutez une §anouvelle ligne.
+  Add_objective: §aAjoutez §7un nouvel §eobjective §7à la quest
+  Add_quest: §7Ajoutez une §anouvelle quest.
+  Add_questphase: §7Ajoutez une §anouvelle phase.
+  Add_reward: §aAjoutez §7une nouvelle §ereward §7offerte à la fin de l'objectif.
+  Amount: quantité
+  Amount_lore: §7Combien de fois le joueur devra-t-il §eaccomplir §7cette tâche ?
+  ChangeMessage: §7Cliquez pour §amodifier le message
+  Change_amount: §eClic gauche §7pour taper la quantité dans le chat.
+  ChatDisplay: Afficher la progression dans le chat
+  ChatDisplay_lore: §7La progression sera envoyée comme message dans le chat
+  Command: '§7Commande : '
+  Create_gui: §7Créez une §anouvelle interface.
+  Create_quest: §7Créez une §anouvelle quest.
+  Message: '§7Message : '
+  Objective_type: '§7Type : §e'
+  Objectives: Objectifs
+  Objectives_lore: §7Les tâches nécessaires pour compléter la phase
+  Phase: Phase
+  Phase_lore: §eUne phase §7contient une série d'§eobjectives §7et de §erewards.
+  Phase_number: '§7Numéro de phase : §e'
+  Quest: '§7Quest : §f'
+  Remove: §cSupprimez §7la quest.
+  Remove_phase: §cSupprimez §7la phase.
+  Rewards: Récompenses
+  Rewards_lore: §7Les rewards que le joueur recevra

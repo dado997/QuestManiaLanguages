@@ -1,0 +1,69 @@
+Common:
+  Gui: Premi ESC per tornare indietro
+  Chat:
+    Help: §7Scrivi in chat §e/questmania §7help per vedere tutti i comandi.
+    NotFound: §cComando non trovato!
+    InvalidArgs: §cArgomenti non validi!
+    NoPermission: §cNon hai il permesso per eseguire questa azione!
+    InvalidNumber: §cNumero non valido!
+Chat:
+  Gui:
+    DoesntExist: §cUna GUI con questo nome non esiste!
+  GuiObject:
+    AlreadyExists: §cUna GUI con questo nome esiste già!
+  Quest:
+    AlreadyExists: §cUna quest con questo nome esiste già!
+    DoesntExist: §cUna quest con questo nome non esiste!
+    Removed: §aQuest rimossa con successo §e%quest%
+    alreadyStarted: §cHai già iniziato la quest §e%quest%
+    created: §aQuest creata con successo §e%quest%
+    started: §aHai iniziato la quest §e%quest%
+  Quest_DoesntExist: §cUna quest con questo nome non esiste!
+Gui:
+  ActionBarDisplay: Mostra il progresso tramite la barra delle azioni
+  ActionBarDisplay_lore: §7Il progresso sarà inviato come messaggio nella barra delle azioni
+  Add:
+    line: §7Aggiungi una §anuova linea.
+    objective: §aAggiungi §7un nuovo §eobiettivo §7alla quest
+    quest: Aggiungi quest
+    quest_list: Aggiungi elenco quest
+    quest_list_lore: §7Aggiungi un set predefinito di quest da visualizzare
+    quest_lore: §7Aggiungi un pulsante quest da visualizzare
+    questphase: §7Aggiungi una §anuova fase.
+    reward: §aAggiungi §7un nuovo §epremio §7assegnato al completamento dell’obiettivo.
+    row: Aggiungi riga
+    row_lore: §7Aggiungi una nuova riga alla GUI.
+  Amount: quantità
+  Amount_lore: §7Quante volte il giocatore dovrà §eeseguire §7questo compito?
+  ChangeMessage: §7Clicca per §amodificare il messaggio
+  Change_amount: §eClic sinistro §7per scrivere in chat la quantità.
+  ChatDisplay: Mostra il progresso tramite la chat
+  ChatDisplay_lore: §7Il progresso sarà inviato come messaggio in chat
+  ClickToSelect: Clicca per selezionare
+  Command: '§7Comando: '
+  Create_quest: §7Crea una §anuova quest.
+  Delay: Ritardo
+  Delay_lore: '§7Ritardo: §e%delay%'
+  GuiObject:
+    Create_gui: §7Crea una §anuova GUI.
+    lore: §7I §6menu §7che aiuteranno i giocatori a scoprire le quest
+    slots: '§7Slot: §e%slots%'
+    test: Prova come apparirà la GUI per l’utente.
+    title: '§7Titolo: §e%title%'
+  Message: '§7Messaggio: '
+  Objective_type: '§7Tipo: §e'
+  Objectives: Obiettivi
+  Objectives_lore: §7I compiti necessari per completare la fase
+  Phase: Fase
+  Phase_lore: §eUna fase §7contiene un set di §eobiettivi §7da completare e §apremi.
+  Phase_number: '§7Numero fase: §e'
+  Quest: '§7Quest: §f'
+  Quests_lore: §aCrea §7e §6Gestisci §7le quest
+  Remove:
+    phase: §cRimuovi §7la fase.
+    row: §7Rimuovi una riga dalla GUI.
+    row_warning: §cGli oggetti in quella riga saranno eliminati!
+  Rewards: Premi
+  Rewards_lore: §7I premi che il giocatore riceverà
+  Settings: Impostazioni
+  Settings_lore: §7Opzioni globali del plugin

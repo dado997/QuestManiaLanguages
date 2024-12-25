@@ -1,0 +1,67 @@
+Common:
+  Gui: Press ESC to go back
+  Chat:
+    Help: §7Type in chat §e/questmania §7help to see all commands.
+    NotFound: §cCommand not found!
+    InvalidArgs: §cInvalid Arguments!
+    NoPermission: §cYou don't have permission to perform this action!
+    InvalidNumber: §cInvalid number!
+Chat:
+  GuiObject:
+    AlreadyExists: §cA gui with this name already exists!
+    DoesntExist: §cA gui with this name doesn't exists!
+  Quest:
+    AlreadyExists: §cA quest with this name already exists!
+    DoesntExist: §cA quest with this name doesn't exists!
+    Removed: §aSuccessfully removed the quest §e%quest%
+    alreadyStarted: §cYou already started the quest §e%quest%
+    created: §aSuccessfully created the quest §e%quest%
+    started: §aYou started the quest §e%quest%
+Gui:
+  ActionBarDisplay: Display progress through action bar
+  ActionBarDisplay_lore: §7Progress made will be sent as an actionBar message
+  Add:
+    line: §7Add a §anew line.
+    objective: §aAdd §7a new §eobjective §7to the quest
+    quest: Add quest
+    quest_list: Add quest list
+    quest_list_lore: §7Add a pre-defined set of quests that will be displayed
+    quest_lore: §7Add a quest button to be displayed
+    questphase: §7Add a §anew phase.
+    reward: §aAdd §7a new §ereward §7gifted on objective complete.
+    row: Add row
+    row_lore: §7Add a new row to the gui.
+  Amount: amount
+  Amount_lore: §7How many times the player will have to §eperform §7this task?
+  ChangeMessage: §7Click to §achange the message
+  Change_amount: §eLeft click §7to type in chat the amount.
+  ChatDisplay: Display progress through chat
+  ChatDisplay_lore: §7Progress made will be sent as a chat message
+  ClickToSelect: Click to select
+  Command: '§7Command: '
+  Create_quest: §7Create a §anew quest.
+  Delay: Delay
+  Delay_lore: '§7Delay: §e%delay%'
+  GuiObject:
+    Create_gui: §7Create a §anew gui.
+    lore: §7The §6menus §7that will help players discover the quests
+    slots: '§7Slots: §e%slots%'
+    test: Try out what the GUI will look like for the user.
+    title: '§7Title: §e%title%'
+  Message: '§7Message: '
+  Objective_type: '§7Type: §e'
+  Objectives: Objectives
+  Objectives_lore: §7The tasks needed to complete the phase
+  Phase: Phase
+  Phase_lore: §eA phase §7contains a set of §eobjectives §7to complete and §arewards.
+  Phase_number: '§7Phase number: §e'
+  Quest: '§7Quest: §f'
+  Quests_lore: §aCreate §7and §6Manage §7the quests
+  Remove:
+    phase: §cRemove §7the phase.
+    row: §7Remove a row from the gui.
+    row_warning: §cItems in that row will be deleted!
+  Rewards: Rewards
+  Rewards_lore: §7The rewards the player will be awarded with
+  Settings: Settings
+  Settings_lore: §7Global options of the plugin
