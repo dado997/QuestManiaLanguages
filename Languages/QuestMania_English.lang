@@ -41,7 +41,7 @@ Gui:
   Command: '§7Command: '
   Create_quest: §7Create a §anew quest.
   Delay: Delay
-  Delay_lore: '§7Delay: §e%delay%'
+  Delay_lore: '§7Delay: §e%delay% seconds'
   GuiObject:
     Create_gui: §7Create a §anew gui.
     lore: §7The §6menus §7that will help players discover the quests
